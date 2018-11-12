@@ -4,3 +4,4 @@ npm-debug.*
 .DS_Store
 
 !local_modules/NativeBase/*
+!local_modules/NativeBase/dist/src/basic/Icon
