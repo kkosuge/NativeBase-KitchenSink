@@ -34,12 +34,11 @@ class NHSpinner extends Component {
             <Title>Spinner</Title>
           </Body>
           <Right />
-
         </Header>
 
         <Content>
           <Spinner />
-          <Spinner color="red" />
+          <Spinner color="red" size="small" />
           <Spinner color="green" />
           <Spinner color="blue" />
         </Content>
